@@ -7,7 +7,7 @@ class Navbar extends Component {
       <navbar className="navbar">
         <ul>
           <li class="brand">
-            <a href="/">{this.props.title}</a>
+            <a href="/"><div class="logo"></div><div>{this.props.title}</div></a>
           </li>
           <li class="message">{this.props.message}</li>
           <li>Score: {this.props.score} | Top Score: {this.props.topScore}</li>

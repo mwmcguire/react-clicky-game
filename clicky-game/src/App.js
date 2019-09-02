@@ -18,7 +18,7 @@ class App extends Component {
     sprites,
     score: 0,
     topScore: 0,
-    message: "",
+    message: "Click any Robot Master to start",
     clickedSprites: []
   };
 
@@ -53,7 +53,7 @@ class App extends Component {
       });
       console.log("duplicate");
       this.setState({
-        message: "You lose!"
+        message: "Duplicate clicked, score reset!"
       });
     }
 
@@ -85,7 +85,6 @@ class App extends Component {
         <div className="row">
           {this.state.sprites.map(sprite => (
             <Card
-              key={sprite.id}
               id={sprite.id}
               image={sprite.image}
               clickedImage={this.clickedImage}

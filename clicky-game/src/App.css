@@ -9,3 +9,8 @@ body {
   line-height: 1.4;
   background-color: #0158de;
 }
+
+.row {
+  padding: 20px;
+  margin: 20px;
+}
