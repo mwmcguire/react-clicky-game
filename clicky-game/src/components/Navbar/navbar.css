@@ -1,0 +1,26 @@
+.navbar {
+  background-color: #333;
+  color: #fff;
+  min-height: 80px;
+  width: 100%;
+  box-shadow: 0 14px 28px rgba(0,0,0,.5), 0 10px 10px rgba(0,0,0,.5);
+  font-size: calc(10px + 14 * (100vw - 320px)/ 800);
+  z-index: 99;
+  white-space: nowrap;
+}
+
+.navbar ul {
+  width: 100%;
+}
+
+.navbar li {
+  display: inline-block;
+  padding: 26px;
+  width: 33.3%;
+  text-align: center;
+}
+
+.navbar a {
+  color: #fff;
+  text-decoration: none;
+}

@@ -1,0 +1,10 @@
+.img-container {
+  padding: 20px;
+  background-image: url("rmbg2.png");
+  background-position: 10px 19px;
+}
+
+.img-container img:hover {
+  filter: drop-shadow(2px 2px 2px white) contrast(200%);
+  cursor: pointer;
+}
