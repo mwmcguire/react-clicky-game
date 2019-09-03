@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mwmcguire/react-clicky-game/static/css/main.77a262ed.chunk.css",
+    "main.js": "/mwmcguire/react-clicky-game/static/js/main.b74d780b.chunk.js",
+    "main.js.map": "/mwmcguire/react-clicky-game/static/js/main.b74d780b.chunk.js.map",
+    "runtime~main.js": "/mwmcguire/react-clicky-game/static/js/runtime~main.8775c8ca.js",
+    "runtime~main.js.map": "/mwmcguire/react-clicky-game/static/js/runtime~main.8775c8ca.js.map",
+    "static/js/2.a40d0c4b.chunk.js": "/mwmcguire/react-clicky-game/static/js/2.a40d0c4b.chunk.js",
+    "static/js/2.a40d0c4b.chunk.js.map": "/mwmcguire/react-clicky-game/static/js/2.a40d0c4b.chunk.js.map",
+    "index.html": "/mwmcguire/react-clicky-game/index.html",
+    "precache-manifest.ce3f63d832ed70bde9ba78f21903c0d9.js": "/mwmcguire/react-clicky-game/precache-manifest.ce3f63d832ed70bde9ba78f21903c0d9.js",
+    "service-worker.js": "/mwmcguire/react-clicky-game/service-worker.js",
+    "static/css/main.77a262ed.chunk.css.map": "/mwmcguire/react-clicky-game/static/css/main.77a262ed.chunk.css.map"
+  }
+}
