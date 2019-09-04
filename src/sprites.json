@@ -1,66 +1,66 @@
 [
   {
     "id": 1,
-    "image": "/assets/images/rm1.png"
+    "image": "assets/images/rm1.png"
   },
   {
     "id": 2,
-    "image": "/assets/images/rm2.png"
+    "image": "assets/images/rm2.png"
   },
   {
     "id": 3,
-    "image": "/assets/images/rm3.png"
+    "image": "assets/images/rm3.png"
   },
   {
     "id": 4,
-    "image": "/assets/images/rm4.png"
+    "image": "assets/images/rm4.png"
   },
   {
     "id": 5,
-    "image": "/assets/images/rm5.png"
+    "image": "assets/images/rm5.png"
   },
   {
     "id": 6,
-    "image": "/assets/images/rm6.png"
+    "image": "assets/images/rm6.png"
   },
   {
     "id": 7,
-    "image": "/assets/images/rm7.png"
+    "image": "assets/images/rm7.png"
   },
   {
     "id": 8,
-    "image": "/assets/images/rm8.png"
+    "image": "assets/images/rm8.png"
   },
   {
     "id": 9,
-    "image": "/assets/images/rm9.png"
+    "image": "assets/images/rm9.png"
   },
   {
     "id": 10,
-    "image": "/assets/images/rm10.png"
+    "image": "assets/images/rm10.png"
   },
   {
     "id": 11,
-    "image": "/assets/images/rm11.png"
+    "image": "assets/images/rm11.png"
   },
   {
     "id": 12,
-    "image": "/assets/images/rm12.png"
+    "image": "assets/images/rm12.png"
   },
   {
     "id": 13,
-    "image": "/assets/images/rm13.png"
+    "image": "assets/images/rm13.png"
   },
   {
     "id": 14,
-    "image": "/assets/images/rm14.png"
+    "image": "assets/images/rm14.png"
   },
   {
     "id": 15,
-    "image": "/assets/images/rm15.png"
+    "image": "assets/images/rm15.png"
   },
   {
     "id": 16,
-    "image": "/assets/images/rm16.png"
+    "image": "assets/images/rm16.png"
   }
 ]
